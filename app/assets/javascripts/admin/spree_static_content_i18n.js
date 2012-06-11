@@ -1,3 +1,3 @@
 //= require admin/spree_core
-//= require jquery.ui.all
+//= require jquery-ui
 //= require jquery.livequery
